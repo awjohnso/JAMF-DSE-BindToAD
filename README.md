@@ -16,3 +16,25 @@ We find that there are issues when binding with a profile that are not present w
 Using $4 (Jamf parameter) for the OU to bind to.
 
 **This version of the script has been sanitized**
+
+Fill in the following variables:
+
+- AD_DOMAIN
+- ADMIN_LOGIN
+- ADMIN_PWD
+
+Change the rest of the variables as needed:
+
+- MOBILE
+- MOBILE_CONFIRM
+- LOCAL_HOME
+- USE_UNC_PATHS
+- UNC_PATHS_PROTOCOL
+- PACKET_SIGN
+- PACKET_ENCRYPT
+- PASSWORD_INTERVAL
+- AUTH_DOMAIN
+- ADMIN_GROUPS
+- UID_MAPPING
+- GID_MAPPING
+- GGID_MAPPING

@@ -9,7 +9,7 @@
 
 Originally written by the folks at DeployStudio, and modified over the years to work without DeployStudio.
 
-Converted it ZSH in February 2020.
+Converted it to ZSH in February 2020.
 
 We find that there are issues when binding with a profile that are not present when dsconfigad is used to bind.
 

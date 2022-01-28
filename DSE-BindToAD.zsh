@@ -6,7 +6,7 @@
 # Organization: Stony Brook University/DoIT
 #
 # Originally written by the folks at DeployStudio, and modified over the years to 
-# work with out DeployStudio. Converted it ZSH.
+# work with out DeployStudio. Converted it to ZSH.
 #
 # We find that there are issues when binding with a profile that are not present when 
 # dsconfigad is used to bind.
